@@ -1,0 +1,133 @@
+@charset "UFT-8";
+
+@font-face {
+    font-family: android;
+    src: url(fontes/idroid.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: #58A162;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to bottom, #86db91, #58A162,#35613B);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    height: 150px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.39);
+}
+
+header > h1{
+    margin: 0px;
+    text-align: center;
+    text-shadow: 5px 3px 1px rgba(0, 0, 0, 0.336);
+}
+
+header > p{
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+    text-shadow: 5px 3px 1px rgba(0, 0, 0, 0.336);
+}
+
+nav > ul > li{
+    display: inline;
+    padding: 0px 10px 10px 10px;
+    text-align: left;
+}
+
+li > a{
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white;
+}
+
+li > a:hover{
+  text-decoration: none;
+  background-color: #59a062;
+
+}
+
+main{
+    background-color: white;
+    width: 850px;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.39);
+}
+
+main > p{
+    text-align: justify;
+}
+
+a{
+    color: #35613B;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+main > h1, h2{
+    font-family: android, sans-serif;
+    color: #35613B;
+}
+
+main > h2 {
+    background-image: linear-gradient(to right,#58a16227, #58a1626b, white, white);    
+}
+
+section{
+    background-color: #35613B;
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+section > iframe{
+    position: absolute;
+    width: 90%;
+    height: 90%;
+}
+
+article{
+    border-radius: 10px;
+    background-color: #99e4a3;
+    padding: 0px 10px 10px 10px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.39);
+}
+
+article > h3{
+    color: white;
+    background-color: #35613B;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+footer{
+    margin: 10px 0px 0px 0px;
+    background-color: #35613B;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer > p{
+    margin:0px;
+}
