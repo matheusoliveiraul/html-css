@@ -32,4 +32,7 @@ Estou aprendendo html e css para criar sites, e agora estou aprendendo a gerenci
     <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex020/hover.html" target="_blank">Exercicio 20a</a></li>
     <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex020/links.html" target="_blank">Exercicio 20b</a></li>
     <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">Exercicio 20c</a></li>  
+    <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">Exercicio 21a</a></li>
+    <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">Exercicio 21b</a></li>
+    <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">Exercicio 21c</a></li>
 </ul>
