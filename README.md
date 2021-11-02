@@ -3,6 +3,12 @@
 
 Estou aprendendo html e css para criar sites, e agora estou aprendendo a gerenciar no git
 
+<style>
+    a{
+        display: block;
+    }
+</style>
+
 <a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex001/index.html">Exercicio 01</a>
 <a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex002/index.html">Exercicio 02</a>
 <a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex003/index.html">Exercicio 03</a>
