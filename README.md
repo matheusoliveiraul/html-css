@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3 pelo CursoEmVideo
 
-Estou aprendendo html e css para criar sites, e agora estou aprendendo a gerenciar no git
+Aqui estão os links dos exercicios.
 
 <ul>
     <li><a href="https://matheusoliveiraul.github.io/html-css/exercicios/ex001/index.html" target="_blank">Exercicio 01</a>
